@@ -1,0 +1,11 @@
+.article{
+display: flex;
+order: 3;
+background-color: rgb(236, 236, 236);
+height: 100px;
+width: 75px;
+padding: 580px;
+
+margin-top: 50px;
+margin-left: 85px;
+}

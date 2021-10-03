@@ -1,0 +1,12 @@
+.side{
+  display: flex;
+  justify-content: flex-start;
+  background-color: rgb(236, 236, 236);
+  order: 3;
+
+  padding: 60px;
+  height: 800px;
+  width: 350px;
+  margin-left: 1350px;
+  
+}
